@@ -1,0 +1,27 @@
+Changelog
+---------
+
+20150901.02 (unreleased)
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+* Nada alterado ainda
+
+20150901.02 (2015-09-01)
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+* Atualiza changelog [dbarbato]
+
+20150901.01 (2015-09-01)
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+* Inclusão como instalável de banner e microsite [dbarbato]
+
+20150828.01 (2015-08-28)
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+* Requisição de plone.app.contenttypes [dbarbato]
+
+20150824.01 (2015-08-24)
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+* Criação do pacote [dbarbato]

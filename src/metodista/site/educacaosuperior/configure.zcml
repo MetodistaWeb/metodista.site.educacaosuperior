@@ -1,0 +1,15 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:i18n="http://namespaces.zope.org/i18n"
+    xmlns:grok="http://namespaces.zope.org/grok"
+    i18n_domain="metodista.site.educacaosuperior">
+
+    <includeDependencies package="." />
+
+    <include package="five.grok" />
+
+    <include file="profiles.zcml" />
+
+    <grok:grok package="." />
+
+</configure>
